@@ -1,4 +1,4 @@
-## Exercicio TDD DevSuperior
+## Exercício TDD DevSuperior
 
 <h4 align="left">
  Solucionar TDD apresentado com testes integrados na camada Web
